@@ -1,0 +1,7 @@
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.0
+streamlit>=1.57,<2
+joblib==1.4.2
+pyarrow>=10,<20
+pytesseract>=0.3.10,<1
